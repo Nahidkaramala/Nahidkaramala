@@ -39,7 +39,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to reach me
 - **Email**: [nahidkaramala@gmail.com](mailto:nahidkaramala@gmail.com)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/nahid-banu-69a9ba283)
+-  **LinkedIn**: [www.linkedin.com/in/nahid-banu-69a9ba283](www.linkedin.com/in/nahid-banu-69a9ba283)
+
 
 ## 📂 Projects
 Feel free to explore my repositories to see more of my work!
